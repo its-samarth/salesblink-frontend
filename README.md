@@ -2,6 +2,10 @@
 # Email Marketing Sequence Builder
 ##   WORKING DEMO
 [video demo](https://drive.google.com/file/d/1g53VpAt1dC7lV1J27mPtEhZ4sCofUQtu/view)
+
+**[Live URL](https://salesblink-frontend.vercel.app/)**
+
+
 ## Overview
 
 The **Email Marketing Sequence Builder** is a full-stack application that empowers users to create and execute email marketing campaigns visually. Using a flowchart interface, users can design sequences that include:
